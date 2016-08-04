@@ -1,2 +1,2 @@
 # ga-scripts
-Google Apps Script sampels
+Google Apps Script samples
